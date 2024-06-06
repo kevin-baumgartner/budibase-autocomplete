@@ -76,7 +76,7 @@
                 else {
                     selectedItem = {
                         [valueFieldName]: value,
-                        [labelFieldName]: value
+                        [labelFieldName]: 'test'
                     };
                 }
 
